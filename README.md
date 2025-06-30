@@ -18,4 +18,4 @@ The main thing you need from here is the '.py' file which was permanently fixed 
 
 I suppose I could try to make it work with Waterfox Classic but I don't have this browser and no way of knowing whether OW will work AT ALL with the Classic version.
 
-For Windows: if you want fix for Windows, I'll need the python file for Windows because I don't have it. You could open a request as an issue and upload the file for Windows. Then I'll fix it there too and I'll add it to this repository.
+For Windows or MacOS: if you want fix for Windows or Mac, I'll need the relevant python file for that OS because I don't have it. You could open a request as an issue and upload the file for Windows/Mac. Then I'll fix it there too and I'll add it to this repository.
