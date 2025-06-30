@@ -17,3 +17,5 @@ There's NO NEED to download the xpi from here, I've added it, so that you don't 
 The main thing you need from here is the '.py' file which was permanently fixed to work with Waterfox, unless they change the browser name again.
 
 I suppose I could try to make it work with Waterfox Classic but I don't have this browser and no way of knowing whether OW will work AT ALL with the Classic version.
+
+For Windows: if you want fix for Windows, I'll need the python file for Windows because I don't have it. You could open a request as an issue and upload the file for Windows. Then I'll fix it there too and I'll add it to this repository.
