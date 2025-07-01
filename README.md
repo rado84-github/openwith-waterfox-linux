@@ -20,3 +20,4 @@ The main thing you need from here is the '.py' file which was permanently fixed 
 I suppose I could try to make it work with Waterfox Classic but I don't have this browser and no way of knowing whether OW will work AT ALL with the Classic version.
 
 Linux and Windows version were fixed and confirmed to work. Working on the Mac version. This thing is mostly an endless JSON code on a single line which makes it diffucult to find the part I need to edit.
+Anyone willing to modify the mac.py file and make it work in mac, I will (only if you wish so) credit your username in the readme.md as a contributor and (if I can find out how) I'll add you here as a permanent maintainer of the mac version because it's highly unlikely that I'll ever learn how to read 100,000 characters in a single endless line of code.
