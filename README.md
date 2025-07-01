@@ -1,6 +1,8 @@
 # openwith-waterfox-linux
 Fix for the firefox extension OpenWith to work with Waterfox 6.x.x
 
+I should note something important -  a fair warning: I'm not a developer, so these modifications will work until Waterfox make some fundamental changes on how extensions work with the browser. If or when that happens and the xpi stops working with the browser, my modifications will also stop working. I can read and edit code to a certain degree, if or when necessary, but I can't write code from scratch.
+
 As you probably already know, "Open With" (OW, for short) was mainly used with Firefox and later received a fix to work with Waterfox Current. However, at some point of the waterfox's development, that name disappeared and it's now named just "Waterfox". For whatever reason, OW refused to work with Waterfox 6.x.x versions and displayed a red badge with exclamation mark and message like "Open With could not connect to the outside world".
 Despite the fact that OW.xpi file hasn't been updated for several years, I still managed to make its latest version 7.2.6  work with Waterfox 6.5.10. Note that I HAVEN'T edited the xpi file, so the extension will still appear as OW by darktrojan.
 Anyway, my fix goes outside the xpi file.
