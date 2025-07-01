@@ -12,8 +12,7 @@ ALL YOU NEED TO DO is simply download the '.py' file from my repository, place i
 ```
 ./open_with_linux.py install
 ```
-and then click the button "Test installation".
-If  you see green, everything's OK. If it's red, check if you have python3 installed.
+and then click the button "Test installation". As I've discovered, on some distros you may have to run this as sudo, especially if you've stored the file on the root partition. If  you see green, everything's OK. If it's red, check if you have python3 installed.
 
 There's NO NEED to download the xpi from here, I've added it, so that you don't have to jump to the mozilla's extensions page to search for it.
 The main thing you need from here is the '.py' file which was permanently fixed to work with Waterfox, unless they change the browser name again.
