@@ -10,7 +10,7 @@ ALL YOU NEED TO DO is simply download the '.py' file from my repository, place i
 ```
 ./open_with_linux.py install
 ```
-and the click the button "Test installation".
+and then click the button "Test installation".
 If  you see green, everything's OK. If it's red, check if you have python3 installed.
 
 There's NO NEED to download the xpi from here, I've added it, so that you don't have to jump to the mozilla's extensions page to search for it.
